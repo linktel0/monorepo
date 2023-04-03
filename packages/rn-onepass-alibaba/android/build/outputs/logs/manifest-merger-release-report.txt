@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:2:11-36
+		INJECTED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml
+		INJECTED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:3:5-26:19
+activity#com.mobile.auth.gatewayauth.LoginAuthActivity
+ADDED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:5:9-11:66
+	android:screenOrientation
+		ADDED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:10:17-51
+	android:launchMode
+		ADDED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:9:17-47
+	android:exported
+		ADDED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:8:17-41
+	android:configChanges
+		ADDED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:7:17-78
+	android:theme
+		ADDED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:11:17-63
+	android:name
+		ADDED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:6:17-77
+activity#com.mobile.auth.gatewayauth.activity.AuthWebVeiwActivity
+ADDED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:13:9-18:54
+	android:screenOrientation
+		ADDED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:18:17-51
+	android:launchMode
+		ADDED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:17:17-47
+	android:exported
+		ADDED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:16:17-41
+	android:configChanges
+		ADDED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:15:17-78
+	android:name
+		ADDED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:14:17-88
+activity#com.cmic.sso.sdk.activity.LoginAuthActivity
+ADDED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:20:9-25:66
+	android:screenOrientation
+		ADDED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:24:17-51
+	android:launchMode
+		ADDED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:23:17-47
+	android:configChanges
+		ADDED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:22:17-78
+	android:theme
+		ADDED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:25:17-63
+	android:name
+		ADDED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:21:17-75
+uses-sdk
+INJECTED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml
+INJECTED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml
+INJECTED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml
+INJECTED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml
+		ADDED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml
+		INJECTED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml
+		ADDED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml
+		INJECTED from C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml

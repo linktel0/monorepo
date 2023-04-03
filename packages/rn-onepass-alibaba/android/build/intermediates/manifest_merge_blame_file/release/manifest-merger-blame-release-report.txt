@@ -1,0 +1,57 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ali.onepass" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="16"
+6-->C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="22" />
+7-->C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml
+8
+9    <application>
+9-->C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:3:5-26:19
+10
+11        <!-- 联通电信授权⻚ -->
+12        <activity
+12-->C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:5:9-11:66
+13            android:name="com.mobile.auth.gatewayauth.LoginAuthActivity"
+13-->C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:6:17-77
+14            android:configChanges="orientation|keyboardHidden|screenSize"
+14-->C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:7:17-78
+15            android:exported="false"
+15-->C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:8:17-41
+16            android:launchMode="singleTop"
+16-->C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:9:17-47
+17            android:screenOrientation="behind"
+17-->C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:10:17-51
+18            android:theme="@style/authsdk_activity_dialog" />
+18-->C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:11:17-63
+19        <!-- 协议⻚面 webview -->
+20        <activity
+20-->C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:13:9-18:54
+21            android:name="com.mobile.auth.gatewayauth.activity.AuthWebVeiwActivity"
+21-->C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:14:17-88
+22            android:configChanges="orientation|keyboardHidden|screenSize"
+22-->C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:15:17-78
+23            android:exported="false"
+23-->C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:16:17-41
+24            android:launchMode="singleTop"
+24-->C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:17:17-47
+25            android:screenOrientation="behind" />
+25-->C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:18:17-51
+26        <!-- 移动授权⻚ -->
+27        <activity
+27-->C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:20:9-25:66
+28            android:name="com.cmic.sso.sdk.activity.LoginAuthActivity"
+28-->C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:21:17-75
+29            android:configChanges="orientation|keyboardHidden|screenSize"
+29-->C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:22:17-78
+30            android:launchMode="singleTop"
+30-->C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:23:17-47
+31            android:screenOrientation="behind"
+31-->C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:24:17-51
+32            android:theme="@style/authsdk_activity_dialog" />
+32-->C:\react\monorepo\node_modules\rn-onepass-alibaba\android\src\main\AndroidManifest.xml:25:17-63
+33    </application>
+34
+35</manifest>
